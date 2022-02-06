@@ -1,6 +1,4 @@
-#Driveby Dropoff Prototype
-
-##A hectic driving game prototype made by University of Utah students.
+# Driveby Dropoff - A hectic driving game prototype
 
 This prototype was made by 9 University of Utah students over the course of three weeks.
 
